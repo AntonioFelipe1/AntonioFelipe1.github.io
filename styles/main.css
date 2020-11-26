@@ -7258,7 +7258,15 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-instagram:hover i {
+  color: #E1306C;
+}
+
+.cc-linkedin:hover i {
   color: #405de6;
+}
+
+.cc-github:hover i {
+  color: #6e5494;
 }
 
 /* Credit Style */
